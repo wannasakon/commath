@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/commath/static/css/main.5f361e03.chunk.css",
+    "main.js": "/commath/static/js/main.7a532828.chunk.js",
+    "main.js.map": "/commath/static/js/main.7a532828.chunk.js.map",
+    "runtime-main.js": "/commath/static/js/runtime-main.04bf571c.js",
+    "runtime-main.js.map": "/commath/static/js/runtime-main.04bf571c.js.map",
+    "static/js/2.6b633340.chunk.js": "/commath/static/js/2.6b633340.chunk.js",
+    "static/js/2.6b633340.chunk.js.map": "/commath/static/js/2.6b633340.chunk.js.map",
+    "index.html": "/commath/index.html",
+    "precache-manifest.77b880127a96082388aee771b1b4dc6e.js": "/commath/precache-manifest.77b880127a96082388aee771b1b4dc6e.js",
+    "service-worker.js": "/commath/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/commath/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6b633340.chunk.js.LICENSE.txt": "/commath/static/js/2.6b633340.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/commath/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04bf571c.js",
+    "static/js/2.6b633340.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7a532828.chunk.js"
+  ]
+}
